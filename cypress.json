@@ -1,3 +1,4 @@
 {
-  "baseUrl": "https://www.theguardian.com/uk"
+  "chromeWebSecurity": false,
+  "blacklistHosts": ["assets.guim.co.uk", "interactive.guim.co.uk"]
 }

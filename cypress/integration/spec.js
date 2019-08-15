@@ -3,5 +3,5 @@
 /// <reference types="Cypress" />
 
 it('loads guardian uk', () => {
-  cy.visit('/')
+  cy.visit('https://www.theguardian.com/uk')
 })
